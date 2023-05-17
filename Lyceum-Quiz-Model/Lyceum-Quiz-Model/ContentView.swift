@@ -1,8 +1,8 @@
 //
 //  ContentView.swift
-//  Lyceum-Quiz
+//  Lyceum-Quiz-Model
 //
-//  Created by Long Hai on 5/16/23.
+//  Created by Long Hai on 5/17/23.
 //
 
 import SwiftUI
